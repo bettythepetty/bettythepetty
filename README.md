@@ -13,15 +13,15 @@ $\LARGE\color{#8039CE}{\text{𝔸𝕝𝕝 𝕝𝕚𝕗𝕖 𝕚𝕤 𝕖𝕢𝕦
 
 <p align="center">
   <a href="https://bettypet.straw.page">
-    <img src="https://img.shields.io/badge/My%20Strawpage-A84BD0?style=flat-square&labelColor=A84BD0&color=A84BD0" alt="My Strawpage">
+    <img src="https://img.shields.io/badge/My%20Strawpage-A84BD0?style=flat-square&labelColor=A84BD0&color=A84BD0" alt="𝕊𝕥𝕣𝕒𝕨𝕡𝕒𝕘𝕖">
   </a>
   
   <br>
   <a href="https://bettypet.atabook.org">
-    <img src="https://img.shields.io/badge/My%20ATA-8039CE?style=flat-square&labelColor=8039CE&color=8039CE" alt="My ATA">
+    <img src="https://img.shields.io/badge/My%20ATA-8039CE?style=flat-square&labelColor=8039CE&color=8039CE" alt="𝔸𝕋𝔸">
   </a>
   
   <br>
   <a href="https://tumblr.com/blog/bettypet">
-    <img src="https://img.shields.io/badge/My%20Tumblr-5439CE?style=flat-square&labelColor=5439CE&color=5439CE" alt="My Tumblr">
+    <img src="https://img.shields.io/badge/My%20Tumblr-5439CE?style=flat-square&labelColor=5439CE&color=5439CE" alt="𝕋𝕦𝕞𝕓𝕝𝕣">
   </a>
