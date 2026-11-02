@@ -24,3 +24,6 @@ $\LARGE\color{#8039CE}{\text{𝔸𝕝𝕝 𝕝𝕚𝕗𝕖 𝕚𝕤 𝕖𝕢𝕦
   <a href="https://tumblr.com/blog/bettypet">
     <img src="https://img.shields.io/badge/My%20Tumblr-5439CE?style=flat-square&labelColor=5439CE&color=5439CE" alt="𝕋𝕦𝕞𝕓𝕝𝕣">
   </a>
+
+<p align="center">
+$\LARGE\color{#8039CE}{\text{𝕓𝕖𝕥𝕥𝕪𝕡𝕖𝕥   /   𝕓𝕖𝕥𝕥𝕪}}$
