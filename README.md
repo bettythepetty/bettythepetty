@@ -1,5 +1,5 @@
 <p align="center">
-![](https://komarev.com/ghpvc/?username=bettythepetty&abbreviated=true)
+  <img src="https://komarev.com/ghpvc/?username=bettythepetty&style=for-the-badge&color=A84BD0" alt="Profile Views">
 </p>
 
 <p align="center">
