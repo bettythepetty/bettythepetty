@@ -23,6 +23,24 @@
   
 </p>
 
-<p align="center">
-  <i>poop poop gagaga </i>  (╯˘︶˘╯)
-</p>
+<div align="center">
+
+<i>goo goo gaga yk .</i>
+
+✦ &nbsp; <a href="https://bettypet.atabook.org">sign atabook</a>
+&nbsp; ✦ &nbsp;
+<a href="https://example.com">contact me</a>
+
+</div>
+
+<details>
+  <summary>PT Info</summary>
+
+  ...
+
+</details>
+
+<details>
+  <summary>PT Titles</summary>
+
+  ...
