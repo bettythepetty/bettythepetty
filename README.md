@@ -2,12 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=bettythepetty&style=for-the-badge&color=A84BD0" alt="Profile Views">
 </p>
   
-<p align="center">
-$\color{#8039CE}{\text{𝔸𝕝𝕝 𝕝𝕚𝕗𝕖 𝕚𝕤 𝕖𝕢𝕦𝕒𝕝.}} \quad \color{#A84BD0}{\text{ 𝕀 𝕞𝕖𝕣𝕖𝕝𝕪 𝕒𝕤𝕤𝕚𝕘𝕟 𝕚𝕥 𝕒 𝕢𝕦𝕒𝕟𝕥𝕚𝕗𝕚𝕒𝕓𝕝𝕖 𝕧𝕒𝕝𝕦𝕖 — }} \quad \color{#E8254F}{\text{ℤ𝕖𝕣𝕠.}}$
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/pEpmKP9.png" width="100%" alt="Project Banner">
+</p>
+
+<p align="center">
+$\color{#8039CE}{\text{𝔸𝕝𝕝 𝕝𝕚𝕗𝕖 𝕚𝕤 𝕖𝕢𝕦𝕒𝕝.}} \quad \color{#A84BD0}{\text{ 𝕀 𝕞𝕖𝕣𝕖𝕝𝕪 𝕒𝕤𝕤𝕚𝕘𝕟 𝕚𝕥 𝕒 𝕢𝕦𝕒𝕟𝕥𝕚𝕗𝕚𝕒𝕓𝕝𝕖 𝕧𝕒𝕝𝕦𝕖 — }} \quad \color{#E8254F}{\text{ℤ𝕖𝕣𝕠.}}$
 </p>
 
 <p align="center">
