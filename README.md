@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bettythepetty&style=for-the-badge&color=A84BD0" alt="visitors">
 </p>
-  
+
+<a href="https://u8views.com/github/bettythepetty"><img src="https://u8views.com/api/v1/github/profiles/341735692/views/day-week-month-total-count.svg"></a>
 
 <p align="center">
   <img src="https://i.imgur.com/pEpmKP9.png" width="100%" alt="Project Banner">
