@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://bettypet.straw.page" style="color: #A84BD0;">My Strawpage</a> — <code>#A84BD0</code>
+  <a href="https://bettypet.straw.page">
+    <img src="https://img.shields.io/badge/My%20Strawpage-%23A84BD0-A84BD0?style=flat-square" alt="My Strawpage">
+  </a>
   <br>
-  <a href="https://bettypet.atabook.org" style="color: #8039CE;">My ATA</a> — <code>#8039CE</code>
+  <a href="https://bettypet.atabook.org">
+    <img src="https://img.shields.io/badge/My%20ATA-%238039CE-8039CE?style=flat-square" alt="My ATA">
+  </a>
   <br>
-  <a href="https://tumblr.com/blog/bettypet" style="color: #5439CE;">My Tumblr</a> — <code>#5439CE</code>
+  <a href="https://tumblr.com/blog/bettypet">
+    <img src="https://img.shields.io/badge/My%20Tumblr-%235439CE-5439CE?style=flat-square" alt="My Tumblr">
+  </a>
 </p>
