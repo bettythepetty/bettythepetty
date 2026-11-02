@@ -26,4 +26,4 @@ $\LARGE\color{#8039CE}{\text{𝔸𝕝𝕝 𝕝𝕚𝕗𝕖 𝕚𝕤 𝕖𝕢𝕦
   </a>
 
 <p align="center">
-$\LARGE\color{#8039CE}{\text{𝕓𝕖𝕥𝕥𝕪𝕡𝕖𝕥   /   𝕓𝕖𝕥𝕥𝕪}}$
+$\color{#8039CE}{\text{𝕓𝕖𝕥𝕥𝕪𝕡𝕖𝕥   /   𝕓𝕖𝕥𝕥𝕪}}$
